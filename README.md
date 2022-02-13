@@ -17,3 +17,8 @@ run the docker-compose up -d command again, or try docker-compose restart <image
   
   ![image](https://user-images.githubusercontent.com/76479386/153755979-57806ac1-823d-42b4-a22d-645a2b0e6d1d.png)
 
+  
+  
+#Producer and Consumer Logs
+  ![image](https://user-images.githubusercontent.com/76479386/153760572-a18bb70d-e3ec-4acd-974b-8bd9765b20b3.png)
+
